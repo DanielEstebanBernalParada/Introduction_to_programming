@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+132
+ 'SoftGradePoint V1.0
+ Maker: Daniel Bernal
+Description: this software is about calculate the average the final grade for student'
+4
+1
+26
+'input the total students'
+5
+1
+16
+v_total_students
+7
+0
+1
+20
+v_total_students <=0
+6
+2
+5
+v_sum
+1
+0
+9
+v_average
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+16
+v_total_students
+1
+1
+1
+4
+1
+24
+'Imput grade 1, 2 and 3'
+5
+1
+30
+v_grade1 , v_grade2 , v_grade3
+6
+2
+13
+v_final_grade
+44
+(v_grade1*0.2)+(v_grade2*0.3)+(v_grade3*0.5)
+5
+v_sum
+21
+v_sum + v_final_grade
+10
+6
+1
+9
+v_average
+22
+v_sum/v_total_students
+4
+1
+65
+'For' , v_total_students , ' students de average is ' , v_average
+13
+4
+1
+51
+' ERR: the total students should be greater than 0'
+13
+1

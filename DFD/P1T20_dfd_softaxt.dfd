@@ -1,0 +1,88 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+100
+'softtax v1.0 
+Maker: Daniel Bernal
+Description: this software  calculate tax (19%) by n products'
+4
+1
+26
+'Imput the total products'
+5
+1
+16
+v_total_products
+7
+0
+1
+20
+v_total_products <=0
+6
+3
+7
+v_gross
+1
+0
+7
+v_total
+1
+0
+5
+v_tax
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+16
+v_total_products
+1
+1
+1
+4
+1
+37
+'imput the value by the products' , i
+5
+1
+15
+v_value_product
+6
+1
+7
+v_gross
+25
+v_gross + v_value_product
+10
+6
+2
+5
+v_tax
+13
+v_gross* 0.19
+7
+v_total
+15
+v_gross + v_tax
+4
+1
+123
+' the gross value is: ', v_gross , ' the tax value (19%): ',  v_tax , ' and the total value in the invoice is: ' , v_total 
+13
+4
+1
+50
+'ERR:The number entered can not be less than zero'
+13
+1
