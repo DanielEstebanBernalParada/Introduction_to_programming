@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+143
+'Evenoddsoft V1.0
+Maker:Daniel Bernal
+Description: this software is about indicate if you put a number it will tell you if it is even or odd'
+4
+1
+38
+'input a number - only whole numbers '
+5
+1
+8
+v_number
+6
+1
+5
+Total
+14
+v_number mod 2
+7
+0
+1
+7
+total=0
+4
+1
+38
+'the number ' ,  v_number , ' is even'
+13
+4
+1
+37
+'the number ' ,  v_number , ' is odd'
+13
+1

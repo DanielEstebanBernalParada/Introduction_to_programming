@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+87
+'SoftshowNnumber V1.0
+Maker: Daniel Bernal
+Description: this software show N numbers'
+4
+1
+25
+'imput the total numbers'
+5
+1
+15
+v_total_numbers
+7
+0
+1
+18
+v_total_numbers<=0
+8
+1
+1
+i
+1
+1
+1
+1
+15
+v_total_numbers
+1
+1
+1
+4
+1
+25
+'the number cycle is ', i
+10
+13
+4
+1
+45
+'ERR: this number should begreater than zero'
+13
+1

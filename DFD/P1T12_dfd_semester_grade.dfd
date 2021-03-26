@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+107
+'Softgrade V1.0
+Maker: Daniel Bernal
+Description: This software calculate the final grade to the student'
+4
+1
+49
+'Imput the 1º , 2º, 3º and  4º grade to semester'
+5
+1
+22
+v_n1, v_n2, v_n3, v_n4
+7
+0
+1
+85
+v_n1< 0 or v_n1 >5 or v_n2< 0 or v_n2 >5 or v_n3< 0 or v_n3 >5 or v_n4< 0 or v_n4 >5 
+6
+1
+7
+v_total
+45
+(v_n1*0.2)+(v_n2*0.25)+(v_n3*0.25)+(v_n4*0.3)
+4
+1
+44
+'The final grade to semestre is: ' , v_total
+13
+4
+1
+41
+'ERR: the grade most be between 0 and 5 '
+13
+1

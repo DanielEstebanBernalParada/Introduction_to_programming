@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+99
+'Soft-sum V 1.0
+Maker Daniel Esteban Bernal Parada
+this program calculate a sum by there numbers'
+4
+1
+21
+'Imput the 1º number'
+5
+1
+7
+number1
+4
+1
+21
+'Imput the 2º number'
+5
+1
+7
+number2
+4
+1
+21
+'Imput the 3º number'
+5
+1
+7
+number3
+6
+1
+3
+Sum
+27
+number1 + number2 + number3
+4
+1
+20
+'la suma es: ' , sum
+1

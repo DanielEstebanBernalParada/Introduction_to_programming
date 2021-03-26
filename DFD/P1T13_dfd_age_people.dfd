@@ -1,0 +1,80 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+99
+'Agesoft V1.0
+Maker: Daniel Bernal
+Desciption: this software is about determinate the person age'
+4
+1
+17
+' input your age'
+5
+1
+5
+Age_1
+7
+0
+1
+9
+Age_1<= 0
+7
+0
+1
+10
+Age_1 <=6 
+7
+0
+1
+23
+Age_1 >=6 and Age_1 <18
+7
+0
+1
+24
+Age_1 >=18 and Age_1 <45
+7
+0
+1
+24
+Age_1 >=45 and Age_1 <90
+4
+1
+21
+'you are a matusalen'
+13
+4
+1
+24
+'you are a older adult '
+13
+13
+4
+1
+18
+'you are a adult '
+13
+13
+4
+1
+21
+' you are adolescent'
+13
+13
+4
+1
+18
+' you are a child'
+13
+13
+4
+1
+40
+'ERR: the age most be between 0 and 100'
+13
+1

@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+98
+'Softcompare age V1.0
+Maker: Daniel Bernal
+Description: This software compare age of two person'
+4
+1
+38
+'Imput the year birth of first person'
+5
+1
+12
+v_yearbirth1
+4
+1
+42
+'Imput the yearbirth of the second person'
+5
+1
+12
+v_yearbirth2
+7
+0
+1
+43
+v_yearbirth1 > 2021 or v_yearbirth2 > 2021 
+6
+2
+6
+v_age1
+18
+2021- v_yearbirth1
+6
+v_age2
+19
+2021 - v_yearbirth2
+7
+0
+1
+14
+v_age1= v_age2
+7
+0
+1
+14
+v_age1< v_age2
+4
+1
+32
+'the youngest is' , v_yearbirth2
+13
+4
+1
+32
+'the youngest is' , v_yearbirth1
+13
+13
+4
+1
+19
+'the both are same'
+13
+13
+4
+1
+71
+'ERR: some of the years types are wrong, both should be less than 2021'
+13
+1

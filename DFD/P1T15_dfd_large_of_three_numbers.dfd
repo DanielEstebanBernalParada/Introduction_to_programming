@@ -1,0 +1,69 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+117
+'numbersoft V1.0
+Maker: Daniel Bernal
+Description: this is about determinate which is the largest of three numbers'
+4
+1
+25
+'input the three numbers'
+5
+1
+16
+v_n1, v_n2, v_n3
+7
+0
+1
+34
+v_n1 < 0 and v_n2 < 0 and v_n3 < 0
+7
+0
+1
+28
+v_n1 = v_n2 and  v_n1 = v_n3
+7
+0
+1
+27
+v_n1 > v_n2 and v_n1 > v_n3
+7
+0
+1
+27
+v_n2 > v_n1 and v_n2 > v_n3
+4
+1
+35
+'The largest is the number:' , v_n3
+13
+4
+1
+35
+'The largest is the number:' , v_n2
+13
+13
+4
+1
+36
+'The largest is the number:' , v_n1 
+13
+13
+4
+1
+30
+'The three numbers are equal '
+13
+13
+4
+1
+40
+'ERR: the person have a negative number'
+13
+1

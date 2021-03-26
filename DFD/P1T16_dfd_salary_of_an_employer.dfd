@@ -1,0 +1,61 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+97
+'salarysoft V1.0
+Maker: Daniel Bernal
+Description: this software is about calculate the salary'
+4
+1
+19
+'input your salary'
+5
+1
+6
+v_suel
+4
+1
+25
+'imput your days of work'
+5
+1
+5
+v_day
+7
+0
+1
+20
+v_day<0 or v_day >30
+7
+0
+1
+10
+v_suel<= 0
+6
+1
+7
+v_total
+19
+((v_suel/30)*v_day)
+4
+1
+41
+'your salary of this days is: ' , v_total
+13
+4
+1
+39
+'ERR: the salary number more than zero'
+13
+13
+4
+1
+73
+'ERR:the number are incorrect, The days of work most be between 0 and 30'
+13
+1

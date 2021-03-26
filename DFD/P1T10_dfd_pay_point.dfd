@@ -1,0 +1,74 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+101
+'Pay soft V1.0
+Maker: Daniel Bernal
+Description: this software claculate the invoice to 4 products'
+4
+1
+27
+'Imput the first product: '
+5
+1
+2
+P1
+4
+1
+28
+'Imput the second prodcut: '
+5
+1
+2
+P2
+4
+1
+25
+'Imput the thrid product'
+5
+1
+2
+P3
+4
+1
+26
+'Imput the fourth product'
+5
+1
+2
+P4
+7
+0
+1
+35
+P1<= 0 or P2<= 0 or P3<= 0 or P4<=0
+6
+3
+6
+sumpro
+11
+P1+P2+P3+P4
+5
+IVA19
+13
+sumpro * 0.19
+5
+Total
+14
+sumpro + IVA19
+4
+1
+107
+'The gross value : $ ' , sumpro , ' the tax IVA 19% is : $ ' , IVA19 , ' the total invoice is : $ ' , Total
+13
+4
+1
+45
+'ERR:some of the products are less than zero'
+13
+1

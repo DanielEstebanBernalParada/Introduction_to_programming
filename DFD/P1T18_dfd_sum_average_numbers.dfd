@@ -1,0 +1,80 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+126
+'Soft_sum_average V1.0
+Maker Daniel Bernal
+Description: this software calculate the summatory and the average for N numbers'
+4
+1
+25
+'Imput the total numbers'
+5
+1
+15
+v_total_numbers
+7
+0
+1
+19
+v_total_numbers<= 0
+6
+2
+5
+v_sum
+1
+0
+9
+v_average
+1
+0
+8
+1
+1
+i
+1
+1
+1
+1
+15
+v_total_numbers
+1
+1
+1
+4
+1
+22
+'imput the number' , i
+5
+1
+8
+v_number
+6
+1
+5
+v_sum
+16
+v_sum + v_number
+10
+6
+1
+9
+v_average
+21
+v_sum/v_total_numbers
+4
+1
+80
+'for' , v_total_numbers , 'the sum is ' , v_sum , ' the average is ' , v_average
+13
+4
+1
+49
+'ERR: the total numbers should be greater than 0'
+13
+1

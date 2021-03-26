@@ -1,0 +1,42 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+114
+'Agesoft V1.0
+Maker Daniel Bernal
+Description: this sofwart used the year of birht to calculate age of a person'
+4
+1
+26
+'Type the year of birht: '
+5
+1
+11
+v_yearbirth
+7
+0
+1
+16
+v_yearbirth>2021
+6
+1
+5
+v_age
+17
+2021- v_yearbirth
+4
+1
+46
+'the age of person is: ' , v_age, ' years old'
+13
+4
+1
+73
+'ERR: This year is not valid, the year of birth should be less than 2021'
+13
+1

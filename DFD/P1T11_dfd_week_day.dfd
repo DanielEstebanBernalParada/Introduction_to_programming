@@ -1,0 +1,102 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+123
+'weekdaysoft
+Maker: Daniel Bernal
+ this software is about when you put a number and it will tell you the day of the week'
+4
+1
+32
+'input a number between 1 and 7'
+5
+1
+5
+v_day
+7
+0
+1
+23
+v_day <= 1 or v_day > 7
+7
+0
+1
+7
+v_day=1
+7
+0
+1
+7
+v_day=2
+7
+0
+1
+7
+v_day=3
+7
+0
+1
+7
+v_day=4
+7
+0
+1
+7
+v_day=5
+7
+0
+1
+7
+v_day=6
+4
+1
+18
+'Today is Sunday '
+13
+4
+1
+20
+'Today is Saturday '
+13
+13
+4
+1
+18
+'Today is Friday '
+13
+13
+4
+1
+20
+'Today is Thursday '
+13
+13
+4
+1
+21
+'Today is Wednesday '
+13
+13
+4
+1
+19
+'Today is Tuesday '
+13
+13
+4
+1
+19
+'today is a monday'
+13
+13
+4
+1
+53
+'ERR: This numbernot correspond to a day of the wwek'
+13
+1
